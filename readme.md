@@ -4,6 +4,8 @@
 
 GuvnorRecon is an automated reconnaissance tool for subdomain enumeration, URL extraction, and full recon on a target domain.
 
+![Example](https://github.com/CandyCaneCapone/GuvnorRecon/blob/main/example.png?raw=true)
+
 ## Features
 
 - **Subdomain Enumeration:** Uses multiple tools like Subfinder, Amass, Assetfinder, crt.sh, and others.
